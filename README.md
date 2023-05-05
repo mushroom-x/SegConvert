@@ -10,13 +10,7 @@
 
 ----
 
-作者: 阿凯爱玩机器人 | 微信: xingshunkai  | QQ: 244561792
-
-[B站](https://space.bilibili.com/40344504) | [淘宝店铺](https://shop140985627.taobao.com) | [Gemini2 双目结构光3D相机-购买链接](https://item.taobao.com/item.htm?id=710217613927)
-
-<img src="./Gemini2.png" style="zoom:50%;" />
-
-
+作者: 阿凯爱玩机器人 | 微信: xingshunkai  | QQ: 244561792 | [B站](https://space.bilibili.com/40344504) 
 
 
 
@@ -38,3 +32,8 @@ Github代码仓库: https://github.com/yatengLG/ISAT_with_segment_anything
 * `D` 下一张图片
 * `A` 上一张图片
 
+----
+
+[B站](https://space.bilibili.com/40344504) | [淘宝店铺](https://shop140985627.taobao.com) | [Gemini2 双目结构光3D相机-购买链接](https://item.taobao.com/item.htm?id=710217613927)
+
+<img src="./Gemini2.png" style="zoom:50%;" />
